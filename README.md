@@ -1,2 +1,5 @@
 # jpeg-locker
-JPEG Locker, Hide Secrets in Plain Sight
+
+Coming soon.
+
+Visit [jpeg-locker.com](https://jpeg-locker.com) for more information.
